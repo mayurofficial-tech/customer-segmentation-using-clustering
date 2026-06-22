@@ -1,5 +1,8 @@
 # Customer Segmentation Using Unsupervised Machine Learning
 
+![Python](https://img.shields.io/badge/mayur-ram-blue%3Flogo%3Dpython)
+
+
 ## Project Overview
 
 This project focuses on customer segmentation for a retail business (SmartCart) using unsupervised machine learning techniques.
