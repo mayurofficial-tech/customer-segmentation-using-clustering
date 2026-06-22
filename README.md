@@ -1,6 +1,6 @@
 # Customer Segmentation Using Unsupervised Machine Learning
 
-![Python](https://img.shields.io/badge/_python_-_project_-blue?logo=%233776AB)
+![Static Badge](https://img.shields.io/badge/_python_-_project_-blue?logo=3776AB)
 
 
 
