@@ -160,8 +160,8 @@ Customer-Segmentation/
 
 Mayur Makvana
 
-LinkedIn: https://github.com/mayurofficial-tech
+[![GitHub](https://img.shields.io/badge/GitHub-mayurofficial--tech-black?logo=github)](https://github.com/mayurofficial-tech)
 
-GitHub: https://www.linkedin.com/in/mayurofficial-tech/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayur%20Makvana-blue?logo=linkedin)](https://www.linkedin.com/in/mayurofficial-tech/)
 
 Aspiring Data Analyst | Machine Learning Enthusiast
