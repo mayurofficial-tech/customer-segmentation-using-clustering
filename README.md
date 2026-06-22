@@ -160,4 +160,8 @@ Customer-Segmentation/
 
 Mayur Makvana
 
+LinkedIn: https://github.com/mayurofficial-tech
+
+GitHub: https://www.linkedin.com/in/mayurofficial-tech/
+
 Aspiring Data Analyst | Machine Learning Enthusiast
