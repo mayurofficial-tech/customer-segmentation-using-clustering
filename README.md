@@ -1,6 +1,6 @@
 # Customer Segmentation Using Unsupervised Machine Learning
 
-![Python](https://img.shields.io/badge/mayur-ram-blue?logo=python)
+![Python](https://img.shields.io/badge/mayur-ram-blue?logo=#2B2728)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 
